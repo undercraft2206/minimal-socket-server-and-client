@@ -9,7 +9,7 @@ using gcc
 
 ```bash
 gcc client.c -o client
-``
+````
 
 
 using clang
@@ -17,4 +17,4 @@ using clang
 
 ```bash
 clang client.c -o client
-``
+````
